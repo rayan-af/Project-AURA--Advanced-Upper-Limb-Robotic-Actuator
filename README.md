@@ -66,6 +66,25 @@ Features a custom-molded haptic voxel-liner that translates complex physical com
 
 ---
 
+## 📸 Interface Showcases
+
+### Multi-Language Dynamic Dashboard
+![Dashboard Multi-Language Setup](docs/screenshots/dashboard_language.png)
+*The core telemetry dashboard features real-time dynamic LTR/RTL layout flipping. The global localization engine switches instantly between 6 enterprise languages (English, Arabic, French, German, Chinese, Japanese) with zero frame drops.*
+
+### Sensor Calibration Wizard
+![Rest Calibration Phase](docs/screenshots/calibration_rest.png)
+*During the 'Rest' calibration phase, the UI guides the user to relax completely. The neon fluid gauge tracks the raw baseline signal ensuring absolute environmental noise isolation.*
+
+![Flex Calibration Phase](docs/screenshots/calibration_flex.png)
+*Once the baseline is established, the 'Flex' phase measures peak exertion. Threshold badges dynamically map the boundaries beneath the real-time visualizer to lock in the midpoint parameters.*
+
+### English Dashboard (LTR Layout)
+![Dashboard English](docs/screenshots/dashboard_english.png)
+*When switched to English, the UI immediately aligns left-to-right. The telemetry cards seamlessly translate values, including nested data like the Connection Status ('Connected').*
+
+---
+
 ## 🚀 Tech Stack
 
 * **Mobile/Desktop Frontend:** Flutter (Dart)
