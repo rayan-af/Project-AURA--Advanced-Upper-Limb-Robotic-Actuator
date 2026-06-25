@@ -69,9 +69,8 @@ Features a custom-molded haptic voxel-liner that translates complex physical com
 ## 📸 Interface Showcases
 
 ### Live Demonstration
-<video src="docs/screenshots/aurav3.mp4" width="100%" controls="controls" muted="muted"></video>
 
-*If the video does not play above, [click here to watch the Live Demonstration](docs/screenshots/aurav3.mp4).*
+https://github.com/rayan-af/sandevistan-core/raw/main/docs/screenshots/aurav3.mp4
 
 *Real-time demonstration of the AURA telemetry system actively streaming and calibrating hardware feedback.*
 
