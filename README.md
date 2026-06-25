@@ -53,7 +53,15 @@ graph TD
 ## 📂 System Schematics (Proprietary Portfolio Variant)
 
 > **⚠️ INTELLECTUAL PROPERTY NOTICE**  
-> *The schematics and files below represent a sanitized public portfolio overview. Core proprietary mechanical tolerances, specific electrode grid patterns, internal coil stack winding configurations, and mathematical thresholding algorithms have been **heavily redacted or completely excluded** from this public repository to safeguard Intellectual Property (IP).*
+> *Core proprietary mechanics, including LMA internal coil configurations, mathematical threshold algorithms, and haptic voxel density matrices, have been **heavily redacted or completely excluded** for IP protection.*
+
+### Project AURA: Hardware Architecture & Telemetry Integration
+
+![AURA Hardware Blueprint](docs/screenshots/aura_bio.png)
+
+*The blueprint above outlines the physical framework of the Advanced Upper-Limb Robotic Actuator. While the mechanical engineering provides the bionic foundation, the true complexity lies in the **digital bridge**: architecting the cross-platform infrastructure required to handle it.*
+
+*My engineering focus for this repository is entirely on the system software architecture—building the Riverpod-based Flutter diagnostic dashboard that parses high-frequency telemetry, battery loops, and multi-axis joint data from this hardware into a low-latency, real-time user interface.*
 
 ### Module 1: Mechanical Evolution & Myo-Electric Interface
 The structural foundation charts the progression from high-density miniature coreless DC motor configurations toward advanced solid-state joints. Embedded myo-electric sensor arrays capture physical intent, feeding high-frequency signals directly into the processing pipeline.
