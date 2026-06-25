@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Proprietary logic and DB layers
+lib/features/calibration/presentation/controller/
+lib/features/calibration/data/
