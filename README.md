@@ -17,7 +17,7 @@ The AURA ecosystem operates on a strict **Clean Architecture** paradigm, ensurin
 ```mermaid
 graph TD
     A[Physical Bionic Hardware Layer<br>Sensors, LMAs, Coreless DC Motor Arrays] -->|Low-Latency Telemetry Data<br>BLE / Wi-Fi IoT| B(Hardware Communication Protocol)
-    B --> C{Clean Repository Layer}
+    B --> C{Clean Repository Layer} 
     C -->|Asynchronous Streams| D[Riverpod State Management]
     D --> E((Real-Time UI Presentation<br>Flutter Diagnostic Dashboard))
     
