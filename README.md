@@ -57,7 +57,7 @@ graph TD
 
 ### Project AURA: Hardware Architecture & Telemetry Integration
 
-![AURA Hardware Blueprint](docs/screenshots/aura_bio.png)
+![AURA Hardware Blueprint](docs/screenshots/aura--bio.png)
 
 *The blueprint above outlines the physical framework of the Advanced Upper-Limb Robotic Actuator. While the mechanical engineering provides the bionic foundation, the true complexity lies in the **digital bridge**: architecting the cross-platform infrastructure required to handle it.*
 
