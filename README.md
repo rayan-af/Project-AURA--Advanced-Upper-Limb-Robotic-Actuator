@@ -10,7 +10,7 @@ Project AURA (Advanced Upper-Limb Robotic Actuator) is a cutting-edge bionic pro
 
 ---
 
-## 🛠️ System Architecture Overview
+## 🛠️ System Architecture Overview 
 
 The AURA ecosystem operates on a strict **Clean Architecture** paradigm, ensuring that low-level hardware communication protocols are entirely decoupled from the presentation layer. This decoupled structure guarantees that the software remains resilient, scalable, and readily adaptable across varying physical microcontroller deployments.
 
